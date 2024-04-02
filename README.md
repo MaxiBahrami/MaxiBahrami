@@ -10,4 +10,4 @@ Welcome! I am Maximilian, and this is the digital space where I showcase my prof
 
 This journey of discovery did not merely grow; it flourished, transforming into a profound passion for software and web development. My relocation to Sweden at fifteen marked a pivotal chapter in my life. There, I rapidly assimilated the language, enabling me to embark on a formal education in network technology. Achieving certification as a network technician was just the beginning. My academic pursuits continued at TUC Yrkeshögskolan, where I immersed myself in web development, familiarizing myself with a myriad of systems and facets within this vast field.
 
-Today, I am the embodiment of that ever-curious boy, perpetually engaging with, learning from, and contributing to the domain I adore. Welcome to my world, where each project is a love letter to the art of web development.
+Today, I am the embodiment of that ever-curious boy, perpetually engaging with, learning from, and contributing to the domain I adore. Welcome to my world, where each project is a love letter to the art of IT development.
