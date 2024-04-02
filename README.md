@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning anything
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: maxibahrami@gmail.com
-- 😄 Pronouns: whatever
+- 😄 Pronouns: Human 
 - ⚡ Fun fact: Hello my friend
 
 Welcome! I am Maximilian, and this is the digital space where I showcase my professional portfolio. My odyssey into the digital world began at the impressionable age of nine, in a place where the mere access to a computer was a feat. With determination and hard work, I purchased my first laptop, a gateway to a universe of knowledge encapsulated within DVDs brimming with applications for both PC and mobile platforms. Driven by an unquenchable thirst for knowledge, I ventured into programming with PHP and HTML, among other technologies.
