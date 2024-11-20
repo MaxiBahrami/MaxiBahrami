@@ -1,7 +1,8 @@
 <!-- Header with a professional banner image -->
 <p align="center">
-  <img src="(https://www.itw.com.np/public/uploads/slider/93a8fc29997bb9cadfa45e06e9be0a13.1575203243.png)" alt="Banner Image" />
+  <img src="https://www.itw.com.np/public/uploads/slider/93a8fc29997bb9cadfa45e06e9be0a13.1575203243.png" alt="Banner Image" />
 </p>
+
 
 <!-- Greeting -->
 <h1 align="center">Hi there, I'm <a href="https://your-website.com">Maximilian</a> 👋</h1>
