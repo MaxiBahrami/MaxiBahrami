@@ -116,5 +116,5 @@ A brief description of Project 2. Emphasize its significance and what you accomp
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Badge"></a>
+  <a href="https://github.com/MaxiBahrami"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
