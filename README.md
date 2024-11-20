@@ -1,6 +1,6 @@
 <!-- Header with a professional banner image -->
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Banner Image" />
+  <img src="[https://your-image-url.com/banner.png](https://www.itw.com.np/public/uploads/slider/93a8fc29997bb9cadfa45e06e9be0a13.1575203243.png)" alt="Banner Image" />
 </p>
 
 <!-- Greeting -->
