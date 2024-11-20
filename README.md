@@ -20,6 +20,7 @@ I absolutely LOVE creating, developing, and programming. It’s not just a profe
 
 <!-- Social media links -->
 <p align="center">
+
   <a href="mailto:maxibahrami@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/max-bahrami-1086231b3"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-FF7139?style=flat&logo=firefox-browser&logoColor=white"/></a>
